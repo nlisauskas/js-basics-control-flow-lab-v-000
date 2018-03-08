@@ -1,2 +1,4 @@
 // Write your code in this file!
-function scuberGreetingForFeet(fare);
+function scuberGreetingForFeet(distance) {
+  
+};
