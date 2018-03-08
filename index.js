@@ -9,5 +9,9 @@ function scuberGreetingForFeet(distance) {
 }
 
 function ternaryCheckCity() {
+
+}
+
+function switchOnCharmFromTip() {
   
 }
