@@ -8,4 +8,6 @@ function scuberGreetingForFeet(distance) {
   else {return 'Enter a valid distance.'}
 }
 
-function
+function ternaryCheckCity() {
+  
+}
